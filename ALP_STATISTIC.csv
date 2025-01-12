@@ -1,0 +1,101 @@
+ID,Platform,Age,Gender,Monthly Subscription Cost ($),Average Time Spent Watching (hours/day),Favorite Genre,Satisfaction Level (1-5),Traditional TV Usage (Yes/No),Time Spent Before (hours/day),Time Spent After (hours/day)
+1,Netflix,23,Female,15.99,5.5,Educational,3,No,4.91,7.37
+2,Disney+,35,Male,7.99,5.2,Fantasy,5,Yes,4.11,6.28
+3,Disney+,22,Female,7.99,4.1,Drama,5,Yes,2.63,5.41
+4,Netflix,19,Male,15.99,4,Comedy,4,Yes,3.18,5.81
+5,Netflix,27,Female,15.99,4.5,Drama,1,No,3.74,5.82
+6,YouTube,59,Female,0,2.6,Family,4,Yes,1.37,3.64
+7,Disney+,56,Female,7.99,3,Educational,3,No,1.78,3.78
+8,Amazon Prime Video,38,Female,12.99,5.6,Drama,5,No,3.69,6.85
+9,Netflix,25,Female,15.99,4.6,Documentary,4,Yes,2.74,5.97
+10,Netflix,25,Male,15.99,1.9,Drama,3,Yes,1.16,3.72
+11,Hulu,22,Male,14.99,1.9,Family,1,No,0.16,3.59
+12,Netflix,49,Female,15.99,4.4,Fantasy,5,No,3.60,5.96
+13,Amazon Prime Video,21,Male,12.99,2.5,Comedy,1,No,1.57,3.58
+14,Netflix,32,Male,15.99,4.4,Fantasy,4,No,2.94,5.71
+15,Netflix,28,Male,15.99,2.9,Educational,1,No,1.62,3.97
+16,Disney+,58,Male,7.99,4.5,Drama,1,Yes,2.99,5.94
+17,Disney+,43,Male,7.99,5.7,Drama,2,Yes,4.63,7.14
+18,Netflix,42,Female,15.99,4.8,Music,4,No,3.10,5.46
+19,YouTube,54,Female,0,1.5,Music,5,No,0.27,3.17
+20,Amazon Prime Video,50,Male,12.99,4.4,Documentary,4,No,2.76,5.59
+21,Hulu,25,Female,14.99,1.3,Action,5,No,0.14,2.30
+22,YouTube,20,Female,0,4.1,Family,3,No,3.42,5.70
+23,Amazon Prime Video,39,Female,12.99,4.7,Documentary,3,Yes,3.03,6.17
+24,Hulu,58,Male,14.99,5.2,Educational,1,No,4.47,6.31
+25,YouTube,30,Male,0,3.6,Thriller,2,Yes,1.78,5.41
+26,Hulu,27,Female,14.99,2.5,Drama,5,Yes,0.57,4.13
+27,YouTube,42,Male,0,2.4,Comedy,1,Yes,0.45,3.24
+28,Netflix,29,Male,15.99,5.9,Documentary,3,No,5.19,6.81
+29,YouTube,40,Female,0,5.5,Thriller,3,Yes,3.54,6.41
+30,Disney+,20,Male,7.99,2.6,Drama,1,Yes,1.91,3.90
+31,Amazon Prime Video,59,Male,12.99,5.1,Educational,2,No,3.76,6.32
+32,Disney+,55,Male,7.99,1.2,Educational,5,Yes,0.31,2.92
+33,YouTube,49,Male,0,3.9,Documentary,1,Yes,2.41,5.55
+34,Disney+,49,Male,7.99,1.3,Action,5,Yes,0.78,3.11
+35,YouTube,38,Female,0,2.5,Comedy,4,Yes,0.98,3.74
+36,Amazon Prime Video,29,Female,12.99,3.6,Educational,3,No,2.31,4.11
+37,Hulu,55,Female,14.99,3.4,Action,2,Yes,1.95,4.33
+38,Amazon Prime Video,28,Male,12.99,3.1,Thriller,4,Yes,1.42,4.16
+39,YouTube,51,Female,0,2.4,Music,3,Yes,0.60,3.05
+40,YouTube,18,Male,0,1.2,Music,1,Yes,-0.68,2.42
+41,Netflix,46,Male,15.99,5.7,Thriller,5,No,3.80,7.59
+42,Netflix,56,Male,15.99,2,Fantasy,3,No,0.16,3.03
+43,Disney+,58,Male,7.99,5.2,Action,5,Yes,4.64,6.39
+44,Netflix,32,Male,15.99,1.3,Music,5,No,0.46,2.54
+45,Amazon Prime Video,38,Female,12.99,5.8,Family,4,No,4.05,6.47
+46,Disney+,55,Female,7.99,1.2,Drama,3,Yes,0.74,3.01
+47,YouTube,56,Female,0,4.1,Family,4,Yes,3.25,5.75
+48,Netflix,21,Female,15.99,2.8,Fantasy,5,No,1.63,4.79
+49,Hulu,42,Male,14.99,3.7,Comedy,4,No,1.98,4.74
+50,Netflix,30,Female,15.99,3,Comedy,1,Yes,1.05,3.62
+51,Hulu,27,Female,14.99,4.9,Music,2,Yes,3.40,6.00
+52,Hulu,21,Male,14.99,3.9,Documentary,5,No,2.26,4.50
+53,Netflix,36,Female,15.99,4.6,Fantasy,4,No,3.74,5.10
+54,Hulu,24,Male,14.99,1,Music,1,Yes,0.03,2.15
+55,Netflix,59,Female,15.99,5.6,Thriller,2,No,3.61,7.08
+56,Netflix,42,Female,15.99,4.7,Family,3,Yes,2.73,6.65
+57,Amazon Prime Video,52,Female,12.99,2.3,Documentary,1,Yes,0.57,2.96
+58,Hulu,55,Male,14.99,5.7,Educational,5,No,4.03,7.57
+59,Amazon Prime Video,27,Female,12.99,3.3,Music,1,Yes,1.82,4.38
+60,Amazon Prime Video,54,Male,12.99,2,Action,4,No,0.65,3.69
+61,Netflix,54,Female,15.99,5.4,Drama,5,No,4.81,6.22
+62,Amazon Prime Video,50,Female,12.99,2.6,Drama,4,Yes,1.07,3.13
+63,Hulu,27,Male,14.99,5,Action,5,Yes,3.14,5.78
+64,Netflix,22,Female,15.99,2.7,Fantasy,2,Yes,1.75,3.71
+65,Netflix,42,Female,15.99,5.2,Music,4,No,3.39,5.80
+66,Disney+,53,Female,7.99,1.9,Family,2,Yes,0.60,3.47
+67,Netflix,22,Female,15.99,2.5,Action,3,No,1.21,3.40
+68,Hulu,54,Male,14.99,5.1,Drama,5,Yes,3.89,6.38
+69,Disney+,23,Female,7.99,1.8,Family,4,No,0.17,3.44
+70,Hulu,18,Male,14.99,2.4,Fantasy,1,Yes,1.22,3.43
+71,Disney+,56,Female,7.99,4.5,Action,5,Yes,3.53,5.99
+72,Netflix,25,Male,15.99,5.2,Music,2,Yes,3.33,6.36
+73,Hulu,30,Female,14.99,5.7,Comedy,2,Yes,3.84,7.06
+74,Netflix,28,Male,15.99,3,Thriller,2,Yes,2.18,4.21
+75,Amazon Prime Video,43,Male,12.99,4.2,Educational,5,Yes,2.82,5.12
+76,Netflix,57,Male,15.99,5.9,Fantasy,1,No,4.86,7.35
+77,Amazon Prime Video,18,Female,12.99,2.3,Action,4,No,0.55,3.41
+78,Disney+,38,Female,7.99,2.5,Documentary,2,No,1.59,3.56
+79,Disney+,53,Male,7.99,2,Educational,4,No,0.11,2.70
+80,Disney+,20,Male,7.99,1.1,Music,2,Yes,0.25,2.91
+81,Netflix,22,Female,15.99,5.1,Comedy,5,No,3.40,6.45
+82,Amazon Prime Video,49,Female,12.99,5.9,Family,1,Yes,5.32,7.21
+83,YouTube,45,Female,0,4.4,Documentary,4,Yes,3.12,5.39
+84,Disney+,60,Female,7.99,1.7,Action,5,Yes,0.33,2.38
+85,Amazon Prime Video,41,Male,12.99,2.1,Drama,4,No,1.09,3.70
+86,YouTube,49,Male,0,4,Action,5,Yes,2.01,5.01
+87,Hulu,57,Female,14.99,4,Thriller,3,No,2.19,5.26
+88,Disney+,29,Male,7.99,4,Educational,2,No,2.98,5.08
+89,Netflix,58,Female,15.99,2.8,Comedy,3,No,2.21,4.65
+90,Hulu,45,Male,14.99,2.7,Family,1,Yes,0.99,4.10
+91,Amazon Prime Video,43,Female,12.99,2.9,Action,4,No,2.01,3.69
+92,Amazon Prime Video,39,Male,12.99,4.3,Music,4,Yes,3.79,5.19
+93,YouTube,24,Female,0,4.7,Educational,1,Yes,3.90,6.70
+94,Disney+,20,Male,7.99,4,Comedy,4,No,2.79,5.00
+95,Amazon Prime Video,55,Male,12.99,4.1,Drama,4,No,3.44,6.01
+96,Amazon Prime Video,21,Male,12.99,3.7,Action,4,No,2.14,5.65
+97,Hulu,26,Male,14.99,4.4,Drama,2,Yes,2.59,5.93
+98,Amazon Prime Video,50,Male,12.99,1.6,Action,3,No,0.93,3.05
+99,Disney+,54,Female,7.99,3.9,Drama,5,No,3.15,5.57
+100,Amazon Prime Video,39,Female,12.99,4.5,Comedy,5,No,3.91,5.84
